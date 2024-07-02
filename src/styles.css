@@ -1,0 +1,17 @@
+form {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+  }
+  
+  input, button, select {
+    margin: 5px 0;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  div {
+    margin: 10px 0;
+  }
